@@ -1,5 +1,5 @@
 {
-  "name": "npm-recordifier",
+  "name": "json-recordifier",
   "version": "1.0.0",
   "description": "flatten nested json to record format and vice versa",
   "main": "src/index.js",
