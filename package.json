@@ -1,0 +1,19 @@
+{
+  "name": "npm-recordifier",
+  "version": "1.0.0",
+  "description": "flatten neston json to record format and vice erson",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "flatten",
+    "aggregate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
